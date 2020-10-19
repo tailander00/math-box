@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9c0cc71178a2cc545814e74760c7d660
+timeCreated: 1533070514
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - mostraVida: {instanceID: 0}
+  - box: {fileID: 1737474115017008, guid: 4abb4e3d4e740c24d8d25e28f8d43ef8, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
