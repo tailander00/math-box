@@ -1,2 +1,2 @@
 # math-box
-projeto unity q eu fiz no curso técnico CEFET-MG como tcc
+Projeto unity que eu fiz no curso técnico CEFET-MG como tcc
